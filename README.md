@@ -1,20 +1,17 @@
-# usePopcorn movie app
+# classy weater app
 
-search for any movie that you want, show any movie details
+- I made this as a practical application on how React before hooks work.
 
 ## features
 
-- you can search for any movie that you want
-- you can choose amovie and show its details
-- you can rate a movie and add it to watched list
-- you can show a summary of all watched movies
+- you can search for the weather of any country.
+- show the weather of today and the upcoming 6 days.
 
 ### purpose
 
 a practical application on :
 
-- fetch data
-- initialize a state using a callback function
-- use cases of useEffect hook
-- custom hooks
-- useRef hook both to select DOM element and to persist data between renders
+- fetch data.
+- how class-based components work.
+- use cases of lifecycle methods (componentDidMount , componentDidUpdate ,componentWillUnmount).
+
